@@ -15,10 +15,10 @@
 
 
 ### Assume you have the string 'Jack Reacher'.  Using NEGATIVE index numbers, what's the negative index number of the letter c in Reacher?
-- 
+- -4
 
 
 ### How many characters total does the string 'Jack Reacher' contain?
-- Your answer...
+- 12
 
 
